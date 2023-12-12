@@ -1,4 +1,4 @@
-<h1 align="center">Salve, I am Pedro Lealdini</h1>
+<h1 align="center">I am Pedro Lealdini</h1>
 <h3 align="center">A student wanting to learn.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kommnenos&label=Profile%20views&color=0e75b6&style=flat" alt="kommnenos" /> </p>
